@@ -1,0 +1,20 @@
+Skills:
+
+- Transferir territórios entre os exércitos que possui
+- Adicionar territórios
+- Criar etapas (preparação, ataque, reposição)
+- Criar rodadas
+
+- Criar jogadas do computador
+
+
+Extra:
+
+- Incluir biblioteca Socket
+
+
+Menu de baixo
+x417, y516
+x644, y595
+
+meio = 530, 555
